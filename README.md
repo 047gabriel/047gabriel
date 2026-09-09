@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:58A6FF&text=GABRIEL%20FREITAS&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=INITIALIZING%20DEVELOPER%20SYSTEM...&descAlignY=58&descSize=18&descColor=8B949E"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:58A6FF&text=GABRIEL%20FREITAS&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descAlignY=58&descSize=17&descColor=8B949E"/>
 </div>
 
 ![snake](https://raw.githubusercontent.com/047gabriel/047gabriel/output/github-contribution-grid-snake-dark.svg)
