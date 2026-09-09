@@ -24,7 +24,7 @@
     **Stack:** JavaScript, Node.js, SQLite, SQLite3
 
 *   [**ADS - Análise e Desenvolvimento de Sistemas**](https://github.com/047gabriel/ADS)
-    Acervo com a evolução das aulas práticas desde o início do curso (02/2026). Contém os fundamentos de lógica de programação, incluindo scripts de terminal interagindo com usuários para processar e comparar dados.
+    Acervo com a evolução das aulas práticas desde o início do Curso Técnico (02/2026). Contém os fundamentos de lógica de programação, incluindo scripts de terminal interagindo com usuários para processar e comparar dados.
     **Stack:** JavaScript
 
 ### 📫 Como me encontrar
