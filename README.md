@@ -26,3 +26,8 @@
 *   [**ADS - Análise e Desenvolvimento de Sistemas**](https://github.com/047gabriel/ADS)
     Acervo com a evolução das aulas práticas desde o início do curso (02/2026). Contém os fundamentos de lógica de programação, incluindo scripts de terminal interagindo com usuários para processar e comparar dados.
     **Stack:** JavaScript
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario-do-linkedin/](https://www.linkedin.com/in/gabriel-freitas-1bb60a322/))
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:47gabrielfreitas@gmail.com)
